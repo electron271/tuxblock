@@ -53,10 +53,6 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
-file = "configureddefaults/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "66a9ce3a46254fcef4c29ee3d0bbd89831be30b930386c92ba9eda63b1176885"
-
-[[files]]
 file = "configureddefaults/config/xaerominimap.txt"
 hash = "f25f4d1830092625e59c9274257141a35808a8fa830c329249f70a3b63e41564"
 
@@ -319,11 +315,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "8f1bcd5781c09e0929dd109bbd7cbb4636641dee96441cf125f279f328708268"
 metafile = true
 
 [[files]]
