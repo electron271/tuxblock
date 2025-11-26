@@ -283,6 +283,11 @@ hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "8f1bcd5781c09e0929dd109bbd7cbb4636641dee96441cf125f279f328708268"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -310,6 +315,11 @@ metafile = true
 [[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
 hash = "0ba45c4cf0d0c605841b708a23417668e1ee4c9860a1d4572b122d6348c113ed"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "170212f0b41fc84d5d75248ad0f16f21be8079494e03c517d985fe9034196cff"
 metafile = true
 
 [[files]]
