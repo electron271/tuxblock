@@ -1,0 +1,6 @@
+enableVsync:true
+fov:1.0
+guiScale:2
+maxFps:500
+soundCategory_music:0.0
+resourcePacks:["vanilla","mod_resources","file/tuxblock"]
