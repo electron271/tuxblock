@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/static.yml"
+hash = "63eeb2e3ccb0fc34289ab0dc78c17a01c76a55a597d7e6421743231798fb22aa"
+
+[[files]]
 file = "config/fancymenu/assets/mac.icns"
 hash = "21ba2fd9a3603afaa0e5393b46278932923b769ffe06ed030717dfa9c67c9085"
 
@@ -148,6 +152,11 @@ hash = "87ccbd409962ea48348bd005f00a7c68d2add8528cdc6287c83ff52d21dc8c98"
 metafile = true
 
 [[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "ed5a88a8d97fe38cca25a42aa1ffcaf51f8f84535f872a9446eff96b92b5722a"
+metafile = true
+
+[[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
 hash = "80d8e54420806a0cfdc113dc559ae2e6bfa7dfcf44e176c7e230d7d371ca99e1"
 metafile = true
@@ -190,11 +199,6 @@ metafile = true
 [[files]]
 file = "mods/create-structures-arise.pw.toml"
 hash = "251db2b84b5263ac874858f76fa4aabfc5ecf5df2636151c4ad5c59ffc7c1460"
-metafile = true
-
-[[files]]
-file = "mods/create-train-lights.pw.toml"
-hash = "fe4b82c368e2ad6e95558a3074a2037070982f74d5c7177de50b9a258c1e10f7"
 metafile = true
 
 [[files]]
