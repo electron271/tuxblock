@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/static.yml"
-hash = "63eeb2e3ccb0fc34289ab0dc78c17a01c76a55a597d7e6421743231798fb22aa"
-
-[[files]]
 file = "config/fancymenu/assets/mac.icns"
 hash = "21ba2fd9a3603afaa0e5393b46278932923b769ffe06ed030717dfa9c67c9085"
 
