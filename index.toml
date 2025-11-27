@@ -133,11 +133,6 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
-file = "mods/companion.pw.toml"
-hash = "debe8db79b3c28277116c603ded923c919a091280d6ace4ad7a287b4117493e9"
-metafile = true
-
-[[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
 metafile = true
@@ -335,11 +330,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "e7d3f7e0472ba9a3ef946fa5defcb157e4126636e603c2306d4ad6065936d5e2"
-metafile = true
-
-[[files]]
-file = "mods/kiwi.pw.toml"
-hash = "caa948011054593b7452cfc4fa7276ff61748770285fd6b7ee5078816eed043b"
 metafile = true
 
 [[files]]
