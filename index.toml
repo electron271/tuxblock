@@ -193,6 +193,11 @@ hash = "946a389729193083c0f937e22f778be1e88f7429bdd25abefb22316af49d7da5"
 metafile = true
 
 [[files]]
+file = "mods/create-framed.pw.toml"
+hash = "0bfd51544f3b3f14e371edf38526a6f36227d660f00070adcd31b2a0db40b18e"
+metafile = true
+
+[[files]]
 file = "mods/create-garnished.pw.toml"
 hash = "c858a76c62530e6620d028776b503e291890fce7540c3fdd6daf2bd2c54538ab"
 metafile = true
