@@ -258,6 +258,11 @@ hash = "70f4abe6b7351bab4fa130e15eac677e01a87ac4ab0348150590227de8343884"
 metafile = true
 
 [[files]]
+file = "mods/create-wrencheable-planes.pw.toml"
+hash = "09873935b2caa08067433091f388691b811d44536970fe70b500a8203af308d9"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
 metafile = true
@@ -358,6 +363,11 @@ hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "67456458bd27dd28509712b1d257f985ccc93003351c0bc4c23ebc9845a241a3"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -405,6 +415,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "09162fdcca41f55e16be2b2101239f1d1b138732c3b3bc2b6d70beaca99cc000"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "d887c005b64a36e1ab515d2fc6a35531b665ff7f4964b7068a01d3a136925641"
 metafile = true
 
 [[files]]
