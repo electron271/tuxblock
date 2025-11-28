@@ -238,11 +238,6 @@ hash = "fa27a4afae3c0329580d41893390307f2f4e71e3f3d7e06c6ee19ec44de39a53"
 metafile = true
 
 [[files]]
-file = "mods/create-mobile-packages.pw.toml"
-hash = "7cbcc68274747ac4ffb9f4a88f87c2fbcda7a2c267098173a279781ced0e25b6"
-metafile = true
-
-[[files]]
 file = "mods/create-more-packages.pw.toml"
 hash = "9e100648f60b0c489add22c2f11c65637bf9cb038c6d33fd84d09dcefc4ad085"
 metafile = true
