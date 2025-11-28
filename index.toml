@@ -238,11 +238,6 @@ hash = "fa27a4afae3c0329580d41893390307f2f4e71e3f3d7e06c6ee19ec44de39a53"
 metafile = true
 
 [[files]]
-file = "mods/create-more-packages.pw.toml"
-hash = "9e100648f60b0c489add22c2f11c65637bf9cb038c6d33fd84d09dcefc4ad085"
-metafile = true
-
-[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "ec69488edd55f31c6fc57cac9bab713a14394d1f63054cc4e2e5efc19a55abb9"
 metafile = true
@@ -470,6 +465,16 @@ metafile = true
 [[files]]
 file = "mods/packagerspsic.pw.toml"
 hash = "b7434a2da8f6c68e3e77e7288d19d979dbd97cec43e827e86be2270b70a7741e"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "19255eb07ee33e1a5d8c64f2fba27ac6040be75c74a55a6bff92e984b49f6ec5"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "7968a1ae7e5fce2ebff943904c50951b59af655e08607820d591f603b6325244"
 metafile = true
 
 [[files]]
