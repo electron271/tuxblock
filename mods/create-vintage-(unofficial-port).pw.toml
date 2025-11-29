@@ -1,0 +1,13 @@
+name = "Create: Vintage"
+filename = "createvintageneoforged-1.21.1-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qVZh767G/versions/tm8RfPap/createvintageneoforged-1.21.1-1.1.5.jar"
+hash-format = "sha512"
+hash = "b0c913ae848734a0521c6a901e2bc1431b55fa2cac261b5331f360a34d626e01d49da776018ee03281e1c5929ba8fb4319d8b94b97943b07a59b66d046a3af53"
+
+[update]
+[update.modrinth]
+mod-id = "qVZh767G"
+version = "tm8RfPap"

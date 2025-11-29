@@ -168,6 +168,11 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "4520f1b7da2cad5e8c8cf0babfd524b322dc2e8fe1b2d7e7b93c365d1779ea14"
+metafile = true
+
+[[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "cc4adda40330d5c792ae31f364b17f56a6a68b8967d1a98dd4e49ababb1ab287"
 metafile = true
@@ -183,8 +188,18 @@ hash = "a10ca44e38b499dd749e8522b51f16815ddbb60483806a58b0845f179b6b8440"
 metafile = true
 
 [[files]]
+file = "mods/create-copper-zinc.pw.toml"
+hash = "63c7e4f2eb0257460a515136db2603e60a517bbe4dddd433bee4f3aca977a00c"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "87ccbd409962ea48348bd005f00a7c68d2add8528cdc6287c83ff52d21dc8c98"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
 metafile = true
 
 [[files]]
@@ -238,6 +253,16 @@ hash = "fa27a4afae3c0329580d41893390307f2f4e71e3f3d7e06c6ee19ec44de39a53"
 metafile = true
 
 [[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "637a0f8e81eebbb776d07f7ce32d6b67675000b6259beacec1cbb1b1d730683d"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
+metafile = true
+
+[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "ec69488edd55f31c6fc57cac9bab713a14394d1f63054cc4e2e5efc19a55abb9"
 metafile = true
@@ -255,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/create-train-parts.pw.toml"
 hash = "c8d8e3d2cbb61f6977d475b0203ad21ef0aab34409cdc304db87a7dd65fbeda1"
+metafile = true
+
+[[files]]
+file = "mods/create-vintage-(unofficial-port).pw.toml"
+hash = "d47df338a60e28279baf4dd4ee01d084bcfcb537074c1ca8996368ba2e6aea1d"
 metafile = true
 
 [[files]]
