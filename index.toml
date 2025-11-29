@@ -618,6 +618,11 @@ hash = "539ade06248a343e6986c76c4bd88fb3d22517185bb19d768600fe51417a3255"
 metafile = true
 
 [[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "3e2708aea2f7537c089dd27a03dcf1f36eb52ff57a2937e809cafe179b6ffe94"
+metafile = true
+
+[[files]]
 file = "mods/xaero-train-map.pw.toml"
 hash = "055508f48abfc3dc9705337d324fe839bbc88cd5cd06ce77f65b4bd2c976a983"
 metafile = true
