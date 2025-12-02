@@ -348,6 +348,11 @@ hash = "91d65ddecc6851a91ff7e60bfb78e3abb74aa01545677ef20d97765ed38b1af5"
 metafile = true
 
 [[files]]
+file = "mods/emi-professions-(emip).pw.toml"
+hash = "0477d572817d9de3a5569109a8d07a2e519af9ccf0e8236cae621369afbc6e4c"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
