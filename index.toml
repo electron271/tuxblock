@@ -53,6 +53,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/treeharvester.json5"
+hash = "c00af7d5905156b08042b126d67fb4efc267c0482f68d94bf36a4673c571f7c0"
+
+[[files]]
 file = "configureddefaults/config/xaerominimap.txt"
 hash = "f25f4d1830092625e59c9274257141a35808a8fa830c329249f70a3b63e41564"
 
@@ -560,11 +564,6 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "9d4e4bd1007b5529b2b35439d00d74f0554f2bd8ae0d4d72aeab9d8063c60beb"
-metafile = true
-
-[[files]]
-file = "mods/packagerspsic.pw.toml"
-hash = "b7434a2da8f6c68e3e77e7288d19d979dbd97cec43e827e86be2270b70a7741e"
 metafile = true
 
 [[files]]
