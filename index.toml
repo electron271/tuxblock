@@ -98,6 +98,26 @@ hash = "61ab7794e676f45410312efe39c2cc6edf5835f4d7fa5ab685be0c0e4b78f984"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "70485963c2406b4333aa5bb6c64198422199860c8717497983f3970527efcec8"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "1e1f084a9466d9022785468c8cc0ae295d325fe0edae9550357acb1336f77570"
+metafile = true
+
+[[files]]
+file = "mods/apothic-enchanting.pw.toml"
+hash = "f60f9dc2625ae85e731fc510887fd509c117d5f588047d116eedbe37f431b7a1"
+metafile = true
+
+[[files]]
+file = "mods/apothic-spawners.pw.toml"
+hash = "f8a652602e80477b83520fff4b68ea7195d575ade70d381b3a0ec28e0a13e545"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
@@ -538,6 +558,11 @@ hash = "3f3f319a5385da8705e467eef6820041a1bc143538c8efc03aaf53273771aac7"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
+metafile = true
+
+[[files]]
 file = "mods/petrolpark.pw.toml"
 hash = "19255eb07ee33e1a5d8c64f2fba27ac6040be75c74a55a6bff92e984b49f6ec5"
 metafile = true
@@ -550,6 +575,11 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "573f309a1bd1c410d149b6830aeddee7313e0698ac249a94f63a7e95c0eb146e"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
 
 [[files]]
