@@ -148,6 +148,11 @@ hash = "e94f595a5a63fdabe834b84904695ccca3f9bac8856c98b57abd8687555dc213"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
+metafile = true
+
+[[files]]
 file = "mods/carrasconlib.pw.toml"
 hash = "308c15673753d122338836df7432147d38f1c3c35f839da4b6e1c33d0190d8e8"
 metafile = true
@@ -344,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -365,6 +370,11 @@ metafile = true
 [[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "91d65ddecc6851a91ff7e60bfb78e3abb74aa01545677ef20d97765ed38b1af5"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "32078c39569bbb4b33d2d86a09cfc18a9f5b63a11d0ba2b186fd07341e422c92"
 metafile = true
 
 [[files]]
