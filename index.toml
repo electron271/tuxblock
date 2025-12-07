@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "fa27a4afae3c0329580d41893390307f2f4e71e3f3d7e06c6ee19ec44de39a53"
+hash = "d817562e2945ab62dd5678b348a8d923ddbd09c2370d7e01f2aa31f0d8c0ffb4"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-structures-arise.pw.toml"
-hash = "251db2b84b5263ac874858f76fa4aabfc5ecf5df2636151c4ad5c59ffc7c1460"
+hash = "51e915dc380b709003fd570846111717280b0f3629e0f86962584055ef476a9b"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "1a4a4cb11e70c5b82f3b3d2180f6055babf86a04c9a45f0d3a2e89239f44ca08"
+hash = "1e2e7ad3381209e538e57139fd6e952869b409f841a4559d160763cbf3052cca"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "78f6a760d66709335b8bc92561589b0aba25873ef77f4cd1cdec570416ae9c6b"
+hash = "b2062526afe3f3c55ad508247fc25246f0b3087ac21890ff29fea2b521e289cd"
 metafile = true
 
 [[files]]
@@ -667,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2e4c8891ec22ca246b414728493ff52fe177bc9c4369ed23a5a80e8332e79c67"
+hash = "812a47cc7bbdfa72c3d7d606528efbe9ff81187c886617852b6c04dbf5b337c6"
 metafile = true
 
 [[files]]
