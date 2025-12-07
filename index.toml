@@ -101,6 +101,11 @@ hash = "64123af5ab8b822c26eca70cdecc679838bd7f6a963a8c63c6682ee578cd2322"
 metafile = true
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "49dedd58a30df8112ca9922789f05726a7775fdc58ef626b05894aad8cfcbea0"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "61ab7794e676f45410312efe39c2cc6edf5835f4d7fa5ab685be0c0e4b78f984"
 metafile = true
